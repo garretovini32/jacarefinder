@@ -1,0 +1,7 @@
+{
+  "name": "JacareFinder",
+  "description": "A smart music discovery app that finds songs based on text descriptions, context, or humming/audio input using Google Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
